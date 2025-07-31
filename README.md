@@ -34,8 +34,7 @@ random-forest-iris/
 - **PEP 8 compliant** and well-documented code
 - Modular design for reusability and scalability
 - Unit tests with `pytest`
-- CI/CD ready with GitHub Actions
-- Reproducible environment via `requirements.txt` and `run_training.sh`
+- Reproducible environment via `requirements.txt`
 
 ---
 
