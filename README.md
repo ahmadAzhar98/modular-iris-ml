@@ -68,13 +68,6 @@ Run the full pipeline:
 python main.py
 ```
 
-Or use the helper script:
-
-```bash
-chmod +x scripts/run_training.sh
-./scripts/run_training.sh
-```
-
 ---
 
 ## ✅ Running Tests
@@ -101,14 +94,6 @@ INFO: Classification Report:
            2       0.90      0.90      0.90        10
 ```
 
----
-
-## 🧪 Continuous Integration
-This repository includes a GitHub Actions workflow that:
-- Installs dependencies
-- Runs all tests automatically on every push or pull request
-
----
 
 ## 📌 Requirements
 - Python 3.10+
